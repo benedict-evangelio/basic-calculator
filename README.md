@@ -1,4 +1,4 @@
-# peralta_calculator
+# BASIC CALCULATOR
 
 A new Flutter project.
 
